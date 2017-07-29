@@ -50,7 +50,7 @@ then
 	QUALITY_SCRIPT=checkQuality.sh
 	if [ "$1" = -q ] && [ -f "$QUALITY_SCRIPT" ]
 	then
-		echo Checking the quality now.
+		echo Will check quality now
 		sh checkQuality.sh
 	fi
 fi
