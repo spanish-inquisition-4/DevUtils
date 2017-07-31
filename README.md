@@ -8,3 +8,5 @@ demoScript - the bash executable script that will clone the repository specified
 
 To run the quality script pass the `-q` flag when running this script.
 Maven 3.5.0 and Sonar required to succesfully pass quality check.
+
+Start sonar with command `sh sonar.sh start &` <- this way it will run even after you close the terminal window
