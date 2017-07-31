@@ -4,7 +4,7 @@ Any files that can come in handy while writing the project
 
 ===
 
-To run client-server connection from virtual machines on multiple computers you need to forward port 6666 in VirtualBox using for example 
+To run client-server connection from virtual machines on multiple computers you need to forward port 6666(or other available port) in VirtualBox using for example 
 this tutorial:
   https://www.howtogeek.com/122641/how-to-forward-ports-to-a-virtual-machine-and-use-it-as-a-server/
   
